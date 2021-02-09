@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Red-legged pademelon","category":"Blue"},
+{"id":2,"name":"Andean goose","category":"Pink"},
+{"id":3,"name":"Drongo, fork-tailed","category":"Pink"},
+{"id":4,"name":"Brush-tailed rat kangaroo","category":"Yellow"},
+{"id":5,"name":"Barrows goldeneye","category":"Mauv"},
+{"id":6,"name":"Snow goose","category":"Aquamarine"},
+{"id":7,"name":"Woodrat (unidentified)","category":"Aquamarine"},
+{"id":8,"name":"Four-striped grass mouse","category":"Orange"},
+{"id":9,"name":"Herring gull","category":"Fuscia"},
+{"id":10,"name":"Skimmer, four-spotted","category":"Aquamarine"},
+{"id":11,"name":"Seal, southern elephant","category":"Crimson"},
+{"id":12,"name":"Square-lipped rhinoceros","category":"Khaki"},
+{"id":13,"name":"Burchell's gonolek","category":"Blue"},
+{"id":14,"name":"Little brown bat","category":"Fuscia"},
+{"id":15,"name":"Springhare","category":"Turquoise"},
+{"id":16,"name":"Capuchin, white-fronted","category":"Puce"},
+{"id":17,"name":"Capuchin, weeper","category":"Aquamarine"},
+{"id":18,"name":"Stork, painted","category":"Yellow"},
+{"id":19,"name":"Chacma baboon","category":"Khaki"},
+{"id":20,"name":"African fish eagle","category":"Green"}
+]
+}
